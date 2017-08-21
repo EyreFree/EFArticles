@@ -499,5 +499,5 @@ style 控制徽标的主体样式，有四种，不设置的话默认是 `flat` 
 ---
 
 > 如有任何知识产权、版权问题或理论错误，还请指正。   
-> [https://github.com/EyreFree/EFArticles/blob/master/EFArticles/GitHub/GitHub%20项目徽章的添加和设置.md](https://github.com/EyreFree/EFArticles/blob/master/EFArticles/GitHub/GitHub%20项目徽章的添加和设置.md)   
+> [https://github.com/EyreFree/EFArticles/blob/master/Articles/GitHub/GitHub%20项目徽章的添加和设置.md](https://github.com/EyreFree/EFArticles/blob/master/Articles/GitHub/GitHub%20项目徽章的添加和设置.md)   
 > 转载请注明原作者及以上信息。
