@@ -149,7 +149,9 @@ https://img.shields.io/cocoapods/v/{项目名称}.svg?style=flat
 
 ![](https://img.shields.io/cocoapods/v/Alamofire.svg?style=flat)
 
-如果你的库已经发布到 CocoaPods 的话，我们只要把上面的 Alamofire 改为自己的项目名称即可。更多其他发布方式如 apm、npm、Gem 等可查阅 [http://shields.io/](http://shields.io/) 的 `Version` 一栏。
+如果你的库已经发布到 CocoaPods 的话，我们只要把上面的 Alamofire 改为自己的项目名称即可。更多其他发布方式如 apm、npm、Gem 等可查阅 [http://shields.io/](http://shields.io/) 的 `Version` 一栏，这里提供一个可以查询已发布的各种包的版本号徽标地址的网站 [https://badge.fury.io/](https://badge.fury.io/)，可以轻松获取对应包的徽标代码，如下图所示
+
+![](http://upload-images.jianshu.io/upload_images/1018190-a6257e9b997c4a7f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 如果你的发布工具不提供项目版本信息的徽标的话，可以用自定义徽标的方式实现，具体可参考下文自定义徽标一节，这里给出徽标代码：
 
