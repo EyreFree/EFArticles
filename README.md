@@ -10,5 +10,5 @@
 
 ## 捐赠支持
 
-![支付宝](https://github.com/EyreFree/EFArticles/blob/master/Res/AliPay.jpg?raw=true)|![微信](https://github.com/EyreFree/EFArticles/blob/master/Res/WeChat.jpg?raw=true)  
-:---------------------:|:---------------------:
+![支付宝](https://github.com/EyreFree/EFArticles/blob/master/Res/AliPay.jpg?raw=true)|![微信](https://github.com/EyreFree/EFArticles/blob/master/Res/WeChat.jpg?raw=true)|![PayPal](https://github.com/EyreFree/EFArticles/blob/master/Res/PayPal.jpg?raw=true)  
+:---------------------:|:---------------------:|:---------------------:
