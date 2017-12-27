@@ -1,0 +1,11 @@
+<div class="post-header<%= theme.post.header_align ? ' ' + theme.post.header_align : '' %>">
+   <%- partial('_partial/component/toolbox') %>
+</div>
+
+<%- partial('_partial/component/toc') %>
+
+<div class="content content-post<%= theme.post.header_align ? ' ' + theme.post.header_align : '' %>">
+   <%- partial('_partial/article', {post: page, index: false}) %>
+</div>
+
+<%- partial('_partial/component/back-top', {showBacktop: theme.backtop.post}) %>

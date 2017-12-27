@@ -1,0 +1,307 @@
+# Blog info
+blog_name: EyreFree
+slogan: Not all those who wander are lost.
+url: http://www.eyrefree.org
+
+# Set avatar (Absolute url and relative url)
+avatar: https://dn-coding-net-production-static.qbox.me/3f0503a5-2696-44e1-98dd-d755a07c6c2d.jpg?imageMogr2/auto-orient/format/jpeg/crop/!549x549a0a0
+
+# Set favicon
+favicon: /favicon.ico
+
+# For seo
+keywords: EyreFree,C/C++,Objective-C,Swift,iOS,OS X
+
+home_nav:
+  - name: 博客
+    url: /archives
+    target: _blank
+  # - name: 简历
+  #   url: http://resume.eyrefree.org/
+  #   target: _blank
+  - name: 简书
+    url: http://www.jianshu.com/users/e4d1f69048ea
+    target: _blank
+  - name: Coding
+    url: https://coding.net/u/eyrefree
+    target: _blank
+  - name: GitHub
+    url: http://github.com/eyrefree
+    target: _blank
+  - name: LeetCode
+    url: https://leetcode.com/eyrefree/
+    target: _blank
+  # - name: LinkedIn
+  #   url: http://www.linkedin.com/in/eyrefree
+  #   target: _blank
+  - name: V2EX
+    url: http://v2ex.com/member/eyrefree
+    target: _blank
+  # - name: CSDN
+  #   url: http://my.csdn.net/EyreFree
+  #   target: _blank
+  - name: Steam
+    url: http://steamcommunity.com/id/EyreFree
+    target: _blank
+  # - name: Battle.net
+  #   url: http://d3.blizzard.cn/profile/EyreFree-5717/478027
+  #   target: _blank
+
+# config page nav
+page_nav:
+  - name: 博客
+    url: /archives/
+    target_blank: false # 不在新页面打开
+  - name: 分类
+    url: /category/
+    target_blank: false
+  - name: 标签
+    url: /tag/
+    target_blank: false
+  - name: 项目
+    url: /project/
+    target_blank: false
+  - name: 友链
+    url: /link/
+    target_blank: false
+  - name: 关于
+    url: /about/
+    target_blank: false
+  - name: RSS
+    url: /atom.xml
+    target_blank: true # 在新页面打开
+  - name: 搜索
+    url: /search/
+    target_blank: false
+
+page_nav_style: CIRCLE  # CIRCLE|ROUND_RECT
+
+# 面包屑
+breadcrumb:
+  isShow: true # true|fase
+
+# 盒子
+toolbox:
+  isShow: true # true|fase
+  text: 盒子
+
+search_slogan:
+  isShow: true # true|fase
+  text: 人生总是结束于寻找出路的过程中。
+
+link_slogan:
+  isShow: true # true|fase
+  text: 交换友链可发送邮件至 eyrefree@eyrefree.org
+
+# set backtop show or hide
+backtop:
+  home: false
+  archive: false
+  category: true
+  tag: true
+  post: true
+  link: false
+  about: false
+
+post:
+  header_align: CENTER # LEFT|CENTER
+  showToc: true # true|false
+  showComments: true
+
+# =========================================================
+# 个性化设置
+# =========================================================
+
+# Custom CSS style
+personal_style: /css/eyrefree.css
+
+home_background_scheme: light # dark、light
+
+# custom font-family 暂时只支持这3种英文字体，你可以完全自定义字体(看文档)
+blog_name_font_familiy: calligraffittiregular
+# blog_name_font_familiy: Lobster-Regular
+# blog_name_font_familiy: PoiretOne-Regular
+
+init_page_content: HOME_NAV  # HOME_NAV | POST
+
+
+# =========================================================
+# 第三方服务
+# =========================================================
+# Stats
+#google_analytics: UA-74357398-1
+baidu_analytics: 638f7245dab1e13e3d8fbdd9cc3b0895
+
+# Comment service
+disqus_shortname: eyrefree
+#duoshuo_shortname: eyrefree
+
+
+# =========================================================
+# 页面内容设置
+# =========================================================
+about:
+  - type: me
+    icon: icon-user
+    text_value:
+    - "一个脱离了高级趣味的人。"
+    - "A man interested in coding."
+  - type: qq
+    icon: icon-qq
+    text_key: QQ
+    text_value: "1795179491"
+    text_value_url: http://wpa.qq.com/msgrd?v=3&uin=1795179491&site=qq&menu=yes
+  # - type: wechat
+  #   icon: icon-wechat
+  #   text_key: 微信
+  #   text_value: "EyreFreePro"
+  #   text_value_url: http://bedroom.eyrefree.org/images/eyrefreepro.png
+  - type: weibo
+    icon: icon-weibo
+    text_key: 微博
+    text_value: "EyreFree"
+    text_value_url: http://weibo.com/eyrefree777
+  - type: twitter
+    icon: icon-twitter
+    text_key: 推特
+    text_value: "EyreFree777"
+    text_value_url: https://twitter.com/EyreFree777
+  - type: mail
+    icon: icon-mail
+    text_key: 邮箱
+    text_value: "eyrefree@eyrefree.org"
+    text_value_url: mailto:eyrefree@eyrefree.org
+  - type: location
+    icon: icon-location
+    text_key: 位置
+    text_value: "上海"
+    text_value_url: "http://map.baidu.com/?newmap=1&ie=utf-8&s=s%26wd%3D%E4%B8%8A%E6%B5%B7"
+  - type: info
+    icon: icon-info
+    text_key: 备案
+    text_value: "苏ICP备15023694号-1"
+    text_value_url: http://www.miitbeian.gov.cn/state/outPortal/loginPortal.action
+  - type: comment
+    icon: icon-comment
+    text_key: 提示：本站已在后台加载门罗币挖矿脚本，页面关闭后将会自动停止，如果您不喜欢的话，也不能把我怎么样。
+
+
+link:
+  - name: Breaker's Blog
+    info: 作为意志和表象的世界
+    url: http://blog.0x7c00.cn/
+    avatar: https://dn-coding-net-production-static.qbox.me/b3981953-0dad-48c1-adab-be1b95359b1a.jpg?imageMogr2/auto-orient/format/jpeg/crop/!220x220a0a0
+  - name: Vincent Yao
+    info: 全干工程师
+    url: http://blog.ookcode.com/
+    avatar: https://dn-coding-net-production-static.qbox.me/17f4a530-afa3-435f-af71-42ada41d1b66.png?imageMogr2/auto-orient/format/png/crop/!248x248a0a0
+  - name: TimothyQiu's Blog
+    info: Hi, this is Timothy Qiu. I'm a new programmer.
+    url: http://timothyqiu.com/
+    avatar: https://dn-coding-net-production-static.qbox.me/2212a32f00cca72b5561aef00ebb5dc7.png
+  - name: 沉没大陆
+    info: Blog for Daterlove
+    url: http://www.sinkland.cn/
+    avatar: https://avatars0.githubusercontent.com/u/11631445?v=3&s=460
+  - name: 江小湖Laker
+    info: 进击的程序媛
+    url: http://laker.me/blog/
+    avatar: https://dn-coding-net-production-static.qbox.me/80ab1c83-5194-4850-94bd-cb42c4bbafc8.png?imageMogr2/auto-orient/format/png/crop/!497x497a0a2
+  - name: 佳佳酱
+    info: 跨次元日常卖萌
+    url: https://luojia.me/
+    avatar: https://dn-coding-net-production-static.qbox.me/15b151ef-2df1-457a-913f-ec62d7b536fd.jpg?imageMogr2/auto-orient/format/jpeg/crop/!800x800a0a0
+  - name: Airing
+    info: 我是一只小小小小熊
+    url: http://ursb.me/
+    avatar: https://dn-coding-net-production-static.qbox.me/8cc80ba0-f0ad-4fe8-87f9-15e02ed64c65.jpg?imageMogr2/auto-orient/format/png/crop/!493x493a0a0
+  - name: Jvaeyhcd's Note
+    info: My Coding Note。
+    url: http://www.jvaeyhcd.cc/
+    avatar: https://dn-coding-net-production-static.qbox.me/0dcf6be4-e41e-4842-80af-af8f2b0eb3f3.jpg
+  - name: Invictus
+    info: C'est la vie
+    url: http://lancelot_lewis.coding.me/
+    avatar: https://dn-coding-net-production-static.qbox.me/69ebe443-7644-4656-8d51-a5c8b8b78dd8.jpg?imageMogr2/auto-orient/format/jpeg/crop/!403x403a27a44
+  - name: 海诺者
+    info: PHP终极粉丝
+    url: https://blog.hainuo.info/
+    avatar: https://dn-coding-net-avatar.qbox.me/4cc88a4e-7adc-469f-98a5-6091ef2a35c3.jpg
+  - name: 六阿哥博客
+    info: 记录一个iOS程序员的成长历程
+    url: https://blog.6ag.cn
+    avatar: https://avatars0.githubusercontent.com/u/9330618?v=3&s=460
+  - name: Guardia·瓜地
+    info: Innovation, in iOS development.
+    url: http://www.desgard.com/
+    avatar: https://avatars3.githubusercontent.com/u/7804535?v=3&s=460
+  - name: SuperDanny
+    info: 一个不知天高地厚的小屁孩
+    url: http://superdanny.link/
+    avatar: http://ww1.sinaimg.cn/mw690/81f8a509gw1evdwqs4q4cj20xc0xbjyw.jpg
+  - name: Swift迷
+    info: 致力于打造一个国内专业的Apple Swift交流和分享地方
+    url: http://www.swiftmi.com/
+    avatar: https://avatars0.githubusercontent.com/u/3375497?v=3&s=460
+  - name: POJO
+    info: Dorénavant, je vais de l'avant.
+    url: http://src.moe/
+    avatar: https://avatars3.githubusercontent.com/u/13232736?v=3&s=460
+  - name: 卜卜口
+    info: 前端开发、人像写真
+    url: http://mouto.org
+    avatar: https://avatars0.githubusercontent.com/u/1933673?s=460&v=4
+  - name: TBOOX开源工程
+    info: 专注于跨平台c开发解决方案
+    url: http://tboox.org/cn/
+    avatar: https://avatars0.githubusercontent.com/u/151335?v=3&s=460
+  - name: 圈里圈外
+    info: 记录自己的点滴生活，愿意结识更多的陌生人，一起成长，一起进步！
+    url: http://www.circleblog.net/
+    avatar: https://dn-coding-net-production-static.qbox.me/22f62133-ae70-48ee-8b7e-9f8b17579e51.png?imageMogr2/auto-orient/format/png/crop/!142x142a6a19
+  - name: carl's blog
+    info: 强哥的 iOS 开发日记
+    url: http://ndhphp.com/
+    avatar: http://upload-images.jianshu.io/upload_images/1018190-2cb323e0c07c1a50.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
+  - name: 画渣程序猿MM
+    info: 不喜欢画画的程序猿不是好翻译
+    url: http://mmoaay.github.io/
+    avatar: https://avatars1.githubusercontent.com/u/4161013?v=3&s=460
+  - name: LPD-iOS
+    info: 饿了么物流 iOS 开发组博客
+    url: https://lpd-ios.github.io/
+    avatar: https://avatars2.githubusercontent.com/u/24349774?v=3&s=200
+  - name: 一缕殇流化隐半边冰霜
+    info: 在每一个苦思冥想的瞬间求知
+    url: https://halfrost.com/
+    avatar: https://avatars0.githubusercontent.com/u/10825609?v=3&s=460
+  - name: RenaultZhou
+    info: 沉沉的黑夜往往是白天的前奏
+    url: http://renaultphoto.com/
+    avatar: https://avatars0.githubusercontent.com/u/12331261?v=3&s=400
+  - name: Enum
+    info: iOS エンジニア
+    url: http://enumsblog.com/
+    avatar: https://avatars0.githubusercontent.com/u/29399077?s=460&v=4
+
+project:
+  - type: personal
+    name: VSCAM
+    url: https://github.com/EyreFree/VSCAM
+    intro: 摄影 交流 分享 - 极简主义图片分享应用
+  - type: personal
+    name: EFQRCode
+    url: https://github.com/EyreFree/EFQRCode
+    intro: iOS 艺术二维码生成
+  - type: personal
+    name: TencentLinkupPlugin
+    url: https://github.com/EyreFree/TencentLinkupPlugin
+    intro: 腾讯游戏大厅连连看辅助
+  - type: personal
+    name: EFResume
+    url: https://github.com/EyreFree/EFResume
+    intro: 一个普通的 Swift 简历模板
+  - type: personal
+    name: EFColorPicker
+    url: https://github.com/EyreFree/EFColorPicker
+    intro: 一个纯 Swift 的轻量级 iOS 颜色选择器
