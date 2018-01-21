@@ -67,6 +67,7 @@ EyreFree 存放所发布的各种水文的仓库，可在线查看：[https://ww
 14. [iOS 在 App 中使用自定义字体](/source/_posts/2017-03-23-UIFont-TTF.markdown)
 15. [iOS Markdown 转换及预览](/source/_posts/2017-08-27-EFMarkdown.markdown)
 16. [EFResume - 一个普通的 Swift 简历模板](/source/_posts/2017-09-14-EFResume.markdown)
+17. [蜂鸟商家版 iOS 组件化 / 模块化实践总结](/source/_posts/2018-01-20-LPDBusinessiOS.markdown)
 
 ## 捐赠
 
