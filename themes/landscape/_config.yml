@@ -181,9 +181,6 @@ about:
     text_key: 备案
     text_value: "苏ICP备15023694号-1"
     text_value_url: http://www.miitbeian.gov.cn/state/outPortal/loginPortal.action
-  - type: comment
-    icon: icon-comment
-    text_key: 提示：本站已在后台加载门罗币挖矿脚本，页面关闭后将会自动停止，如果您不喜欢的话，也不能把我怎么样。
 
 
 link:
