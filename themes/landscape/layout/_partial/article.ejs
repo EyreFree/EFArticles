@@ -17,13 +17,21 @@
 
       <%- partial('component/category') %>
 
-      <% if (theme.disqus_shortname && theme.url){ %>
+      <% if (theme.disqus_shortname && theme.url && page.comments){ %>
         <span>
           <i class="icon-comment"></i>
           <a href="<%= theme.url + url_for(page.path) + '#disqus_thread' %>"></a>
         </span>
       <% } %>
 
+      <% if (theme.busuanzi){ %>
+      <i class="fa fa-eye"></i> 
+        <span id="busuanzi_container_page_pv">
+           &nbsp热度 <span id="busuanzi_value_page_pv">
+           <i class="fa fa-spinner fa-spin"></i></span>℃
+        </span>
+      <% } %>
+      
     </div>
   </header>
 
@@ -39,4 +47,11 @@
       <%- post.content %>
     <% } %>
   </div>
+
+  <% if (theme.gitalk_shortname && page.comments && theme.url){ %>
+      <%- partial('component/gitalk') %>
+  <% } else { %>
+      <div class="git"></div>
+  <% } %>
+
 </article>

@@ -1,5 +1,5 @@
 <div class="content content-tag">
-  <%- partial('_partial/component/page-header', {location: '标签'}) %>
+  <%- partial('_partial/component/page-header', {location: __('location.tags')}) %>
   <%- partial('_partial/component/tag-box') %>
   <%- getPostListsDom(site.tags.sort('name'))%>
 </div>
@@ -13,7 +13,7 @@
       var tagInfo = {id: i % 5, isTag: true, tagName: tag.name, count: tag.length};
       postList.push(tagInfo);
 
-      site.tags.findOne({name: tag.name}).posts.each(function(post) {
+      site.tags.findOne({name: tag.name}).posts.sort('date', -1).each(function(post) {
         postList.push(post);
       })
     });

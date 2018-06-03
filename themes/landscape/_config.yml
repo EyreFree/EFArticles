@@ -93,6 +93,7 @@ link_slogan:
   isShow: true # true|fase
   text: 交换友链可发送邮件至 eyrefree@eyrefree.org
 
+
 # set backtop show or hide
 backtop:
   home: false
@@ -103,18 +104,33 @@ backtop:
   link: false
   about: false
 
+donation:
+  show: true
+  btn_text: 支持一下
+  tip: 给 EyreFree 投食，QAQ
+  items:
+    - type: 支付宝
+      # text: 支付宝扫一扫
+      imgUrl: /AliPay.png
+    - type: 微信
+      # text: 微信扫一扫
+      imgUrl: /WeChat.png
+
 post:
   header_align: CENTER # LEFT|CENTER
   showToc: true # true|false
   showComments: true
+  open_in_new_window: false
+  show_prev_next: true
 
 # =========================================================
 # 个性化设置
 # =========================================================
 
-# Custom CSS style
-personal_style: /css/eyrefree.css
+# Custom CSS style, 推荐把样式文件放在blog源码文件夹，而不是主题里面
+personal_style: /css/personal-style.css
 
+# 这个值取决于你得背景图片是深色还是浅色，深色用dark，浅色用light
 home_background_scheme: light # dark、light
 
 # custom font-family 暂时只支持这3种英文字体，你可以完全自定义字体(看文档)
@@ -129,13 +145,55 @@ init_page_content: HOME_NAV  # HOME_NAV | POST
 # 第三方服务
 # =========================================================
 # Stats
-#google_analytics: UA-74357398-1
+# google_analytics: UA-74357398-1
 baidu_analytics: 638f7245dab1e13e3d8fbdd9cc3b0895
 
 # Comment service
-disqus_shortname: eyrefree
-#duoshuo_shortname: eyrefree
+# disqus_shortname: eyrefree
+gitalk_shortname: EyreFree
+# hypercomments_id: 89821
+# gentie_key: d16a7241e7cd4b389584ed8db2a4e8bc
 
+#有言用户编号
+#uyan_key:
+
+# changyan_appid:
+# changyan_appkey:
+
+# gitment comment service
+# gitment:
+#     on: false  # true | false  这里开启
+#     owner: # Your GitHub ID. Required.
+#     repo: # The repository to store your comments. Make sure you're repo's owner. Required.
+#     oauth: # An object contains your client ID and client secret. Required.
+#         client_id: # GitHub client ID. Required.
+#         client_secret: # GitHub client secret. Required.
+#     id: # An optional string to identify your page. Default location.href.
+#     title: # An optional title for your page, used as issue's title. Default document.title.
+#     link: # An optional link for your page, used in issue's body. Default location.href.
+#     desc: # An optional description for your page, used in issue's body. Default ''.
+#     labels: # An optional array of labels your want to add when creating the issue. Default [].
+#     theme: # An optional Gitment theme object. Default gitment.defaultTheme.
+#     perPage: # An optional number to which comments will be paginated. Default 20.
+#     maxCommentHeight: # An optional number to limit comments' max height, over which comments will be folded. Default 250.
+
+# Valine comment system  https://valine.js.org
+valine:
+  enable: false # 如果使用valine，请设置改之为true
+  appid:  # your leancloud application appid
+  appkey:  # your leancloud application appkey
+  notify: false # mail notifier , https://github.com/xCss/Valine/wiki
+  verify: false # Verification code
+  placeholder: Just go go # comment box placeholder
+  avatar: mm # gravatar style
+  guest_info: nick,mail,link # custom comment header
+  pageSize: 10 # pagination size
+
+# 注意，多说即将关闭，建议选用上面四个评论系统
+# duoshuo_shortname: forsigner
+
+# 不算子,文章访问量统计和显示
+busuanzi: true
 
 # =========================================================
 # 页面内容设置
@@ -151,11 +209,6 @@ about:
     text_key: QQ
     text_value: "1795179491"
     text_value_url: http://wpa.qq.com/msgrd?v=3&uin=1795179491&site=qq&menu=yes
-  # - type: wechat
-  #   icon: icon-wechat
-  #   text_key: 微信
-  #   text_value: "EyreFreePro"
-  #   text_value_url: http://bedroom.eyrefree.org/images/eyrefreepro.png
   - type: weibo
     icon: icon-weibo
     text_key: 微博
@@ -181,7 +234,6 @@ about:
     text_key: 备案
     text_value: "苏ICP备15023694号-1"
     text_value_url: http://www.miitbeian.gov.cn/state/outPortal/loginPortal.action
-
 
 link:
   - name: Breaker's Blog
@@ -281,15 +333,16 @@ link:
     url: http://enumsblog.com/
     avatar: https://avatars0.githubusercontent.com/u/29399077?s=460&v=4
 
+
 project:
-  - type: personal
-    name: VSCAM
-    url: https://github.com/EyreFree/VSCAM
-    intro: 摄影 交流 分享 - 极简主义图片分享应用
   - type: personal
     name: EFQRCode
     url: https://github.com/EyreFree/EFQRCode
     intro: iOS 艺术二维码生成
+  - type: personal
+    name: VSCAM
+    url: https://github.com/EyreFree/VSCAM
+    intro: 摄影 交流 分享 - 极简主义图片分享应用
   - type: personal
     name: TencentLinkupPlugin
     url: https://github.com/EyreFree/TencentLinkupPlugin

@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 
 <% if (theme.home_background_scheme === 'light') {%>
-  <html class="light page-<%= page.base ? page.base.replace(/\//g, '') : 'home' %>">
+  <html class="light page-<%= page.base ? page.base.replace(/\//g, '') : page.layout ? page.layout : 'home' %>">
 <% } else { %>
-  <html class="dark page-<%= page.base ? page.base.replace(/\//g, '') : 'home' %>">
+  <html class="dark page-<%= page.base ? page.base.replace(/\//g, '') : page.layout ? page.layout : 'home' %>">
 <% } %>
 
 <head>
@@ -53,4 +53,13 @@
 
   <%- partial('google-analytics') %>
   <%- partial('baidu-analytics') %>
+  <%- partial('baidu-push') %>
+
+  <% if (theme.busuanzi){ %>
+    <script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+  <% } %>
+
+  <% if (theme.busuanzi || theme.duoshuo_shortname){ %>
+    <link rel="stylesheet" href="//cdn.bootcss.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  <% } %>
 </head>

@@ -2,7 +2,7 @@
   <span id="cover" class="cover hide"></span>
   <div id="modal-dialog" class="modal-dialog hide-dialog">
     <div class="modal-header">
-      <span id="close" class="btn-close">关闭</span>
+      <span id="close" class="btn-close"><%= __('close') %></span>
     </div>
     <hr>
     <div class="modal-body">
@@ -12,6 +12,7 @@
             <a
               class="<%= theme.page_nav_style ? theme.page_nav_style : 'ROUND_RECT' %>"
               href="<%= item.url %>"
+              rel="noopener noreferrer"
               target="<%= item.target_blank ? '_blank' : '_self' %>"
               >
               <%= item.name %>

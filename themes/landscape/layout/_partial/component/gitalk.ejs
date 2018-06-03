@@ -1,0 +1,20 @@
+<% if (theme.gitalk_shortname){ %>
+<!-- Gitalk评论插件通用代码 -->
+<div id="git"></div>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+<script>
+const gitalk = new Gitalk({
+  clientID: 'f0ba789df6609f62044d',
+  clientSecret: '75f0fc8ccefb72c7c8585ddc2a3f0663e69139f1',
+  repo: 'EFGitalk',
+  owner: 'EyreFree',
+  admin: ['EyreFree'],
+  // facebook-like distraction free mode
+  distractionFreeMode: false
+})
+gitalk.render('git')
+</script>
+<!-- Gitalk代码结束 -->
+
+<% } %>
