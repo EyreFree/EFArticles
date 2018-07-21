@@ -149,8 +149,8 @@ init_page_content: HOME_NAV  # HOME_NAV | POST
 baidu_analytics: 638f7245dab1e13e3d8fbdd9cc3b0895
 
 # Comment service
-# disqus_shortname: eyrefree
-gitalk_shortname: EyreFree
+disqus_shortname: eyrefree
+# gitalk_shortname: EyreFree
 # hypercomments_id: 89821
 # gentie_key: d16a7241e7cd4b389584ed8db2a4e8bc
 

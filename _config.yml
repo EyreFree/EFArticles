@@ -70,6 +70,6 @@ theme: landscape
 deploy:
   type: git
   repo: 
-    coding: git@git.coding.net:eyrefree/eyrefree.git
+    # coding: git@git.coding.net:eyrefree/eyrefree.git
     github: git@github.com:EyreFree/eyrefree.github.io.git
   branch: master  
