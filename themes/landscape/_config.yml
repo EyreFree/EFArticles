@@ -1,6 +1,6 @@
 # Blog info
 blog_name: EyreFree
-slogan: Not all those who wander are lost.
+slogan: This is the way the world ends, not with a bang, but a whimper.
 url: http://www.eyrefree.org
 
 # Set avatar (Absolute url and relative url)
@@ -16,9 +16,9 @@ home_nav:
   - name: 博客
     url: /archives
     target: _blank
-  # - name: 简历
-  #   url: http://resume.eyrefree.org/
-  #   target: _blank
+  - name: 掘金
+    url: https://juejin.im/user/58e106a12f301e0062127340
+    target: _blank
   - name: 简书
     url: http://www.jianshu.com/users/e4d1f69048ea
     target: _blank
@@ -31,9 +31,12 @@ home_nav:
   - name: LeetCode
     url: https://leetcode.com/eyrefree/
     target: _blank
-  # - name: LinkedIn
-  #   url: http://www.linkedin.com/in/eyrefree
-  #   target: _blank
+  - name: LinkedIn
+    url: http://www.linkedin.com/in/eyrefree
+    target: _blank
+  - name: 简历
+    url: http://resume.eyrefree.org/
+    target: _blank
   - name: V2EX
     url: http://v2ex.com/member/eyrefree
     target: _blank
