@@ -19,27 +19,30 @@ home_nav:
   - name: 掘金
     url: https://juejin.im/user/58e106a12f301e0062127340
     target: _blank
-  - name: 简书
-    url: http://www.jianshu.com/users/e4d1f69048ea
+  - name: 微博
+    url: https://weibo.com/eyrefree777
     target: _blank
-  - name: Coding
-    url: https://coding.net/u/eyrefree
-    target: _blank
+  # - name: 简书
+  #   url: http://www.jianshu.com/users/e4d1f69048ea
+  #   target: _blank
+  # - name: Coding
+  #   url: https://coding.net/u/eyrefree
+  #   target: _blank
   - name: GitHub
     url: http://github.com/eyrefree
     target: _blank
   - name: LeetCode
     url: https://leetcode.com/eyrefree/
     target: _blank
-  - name: LinkedIn
-    url: http://www.linkedin.com/in/eyrefree
-    target: _blank
-  - name: 简历
-    url: http://resume.eyrefree.org/
-    target: _blank
-  - name: V2EX
-    url: http://v2ex.com/member/eyrefree
-    target: _blank
+  # - name: LinkedIn
+  #   url: http://www.linkedin.com/in/eyrefree
+  #   target: _blank
+  # - name: 简历
+  #   url: http://resume.eyrefree.org/
+  #   target: _blank
+  # - name: V2EX
+  #   url: http://v2ex.com/member/eyrefree
+  #   target: _blank
   # - name: CSDN
   #   url: http://my.csdn.net/EyreFree
   #   target: _blank
