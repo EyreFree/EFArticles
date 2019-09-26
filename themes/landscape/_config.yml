@@ -353,22 +353,26 @@ link:
 
 project:
   - type: personal
+    name: EFColorPicker
+    url: https://github.com/EFPrefix/EFColorPicker
+    intro: 一个纯 Swift 的轻量级 iOS 颜色选择器
+  - type: personal
+    name: EFCountingLabel
+    url: https://github.com/EFPrefix/EFCountingLabel
+    intro: 为 UILabel 添加计数动画支持
+  - type: personal
+    name: EFIconFont
+    url: https://github.com/EFPrefix/EFIconFont
+    intro: 一个 Swift 实现的普通的 IconFont 封装
+  - type: personal
     name: EFQRCode
-    url: https://github.com/EyreFree/EFQRCode
+    url: https://github.com/EFPrefix/EFQRCode
     intro: iOS 艺术二维码生成
-  - type: personal
-    name: VSCAM
-    url: https://github.com/EyreFree/VSCAM
-    intro: 摄影 交流 分享 - 极简主义图片分享应用
-  - type: personal
-    name: TencentLinkupPlugin
-    url: https://github.com/EyreFree/TencentLinkupPlugin
-    intro: 腾讯游戏大厅连连看辅助
   - type: personal
     name: EFResume
     url: https://github.com/EyreFree/EFResume
     intro: 一个普通的 Swift 简历模板
   - type: personal
-    name: EFColorPicker
-    url: https://github.com/EyreFree/EFColorPicker
-    intro: 一个纯 Swift 的轻量级 iOS 颜色选择器
+    name: VSCAM
+    url: https://github.com/EyreFree/VSCAM
+    intro: 摄影 交流 分享 - 极简主义图片分享应用
