@@ -4,6 +4,7 @@ EyreFree 存放所发布的各种水文的仓库，可在线查看：[https://ww
 
 ## 博文
 
+- [CocoaPods installed but not initialized. Skipping pod install](/source/_posts/CocoaPods-Flutter-CDN.markdown)
 - [GitHub 项目 README 展示使用本开源库的 App](/source/_posts/GitHub-ReadMe-Apps.markdown)
 - [怎样将信息发布 / 记录到 ETH 网络？](/source/_posts/ETHTransactionData.markdown)
 - [蜂鸟商家版 iOS 组件化 / 模块化实践总结](/source/_posts/LPDBusinessiOS.markdown)
