@@ -2,6 +2,9 @@
   "name": "hexo-site",
   "version": "0.0.0",
   "private": true,
+  "engines": {
+    "node": "~10.22.1"
+  },
   "hexo": {
     "version": "3.4.4"
   },
