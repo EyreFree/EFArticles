@@ -109,6 +109,5 @@ lan4 shi4 you3 yuan2 yin1 di2 , [ wei1 xiao4 ] . da4 jia1 du1 yuan4 yi4 chi1 shi
 ---
 
 > 如有任何知识产权、版权问题或理论错误，还请指正。   
-> https://www.eyrefree.org/post/ETHTransactionData/   
-> 如文中无特殊说明，本站均使用以下协议保护：[署名-非商业性使用-禁止演绎](http://creativecommons.org/licenses/by-nc-nd/3.0/cn/)   
-> 转载请注明原作者及以上信息。​​​​​
+> https://www.eyrefree.org/2018/07/25/ETHTransactionData   
+> 如文中无特殊说明，本站均使用以下协议保护：[署名-非商业性使用-禁止演绎](http://creativecommons.org/licenses/by-nc-nd/3.0/cn/)。   

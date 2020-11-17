@@ -4,6 +4,7 @@ EyreFree 存放所发布的各种水文的仓库，可在线查看：[https://ww
 
 ## 博文
 
+- [Flutter 与 Swift 混编项目启用 Bitcode](/source/_posts/Flutter-Bitcode.markdown)
 - [如何实现通过 NFC 标签唤起 App Clips](/source/_posts/NFC-AppClips.markdown)
 - [CocoaPods installed but not initialized. Skipping pod install](/source/_posts/CocoaPods-Flutter-CDN.markdown)
 - [GitHub 项目 README 展示使用本开源库的 App](/source/_posts/GitHub-ReadMe-Apps.markdown)

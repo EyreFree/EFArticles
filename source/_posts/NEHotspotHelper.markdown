@@ -186,6 +186,7 @@ Demo 地址：[https://github.com/EyreFree/EFNEHotspotHelperDemo](https://github
 [API Reference - NetworkExtension](https://developer.apple.com/reference/networkextension)
 
 ---
-本文链接：[http://www.eyrefree.org/2017/03/09/2017-03-09-NEHotspotHelper/](http://www.eyrefree.org/2017/03/09/2017-03-09-NEHotspotHelper/)
 
-如文中无特殊说明，本站均使用以下协议保护：[署名-非商业性使用-禁止演绎](http://creativecommons.org/licenses/by-nc-nd/3.0/cn/)
+> 如有任何知识产权、版权问题或理论错误，还请指正。   
+> https://www.eyrefree.org/2017/03/09/NEHotspotHelper   
+> 如文中无特殊说明，本站均使用以下协议保护：[署名-非商业性使用-禁止演绎](http://creativecommons.org/licenses/by-nc-nd/3.0/cn/)。   

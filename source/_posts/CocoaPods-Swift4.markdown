@@ -114,6 +114,6 @@ Swift 的版本控制粒度在 framework 层面，也就是说同一个工程中
 
 ---
 
-本文链接：[http://www.eyrefree.org/2017/12/05/2017-12-05-CocoaPods-Swift4/](http://www.eyrefree.org/2017/12/05/2017-12-05-CocoaPods-Swift4/)
-
-如文中无特殊说明，本站均使用以下协议保护：[署名-非商业性使用-禁止演绎](http://creativecommons.org/licenses/by-nc-nd/3.0/cn/)
+> 如有任何知识产权、版权问题或理论错误，还请指正。   
+> https://www.eyrefree.org/2017/12/05/CocoaPods-Swift4   
+> 如文中无特殊说明，本站均使用以下协议保护：[署名-非商业性使用-禁止演绎](http://creativecommons.org/licenses/by-nc-nd/3.0/cn/)。   

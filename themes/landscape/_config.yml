@@ -301,10 +301,6 @@ link:
     info: Innovation, in iOS development.
     url: http://www.desgard.com/
     avatar: https://avatars3.githubusercontent.com/u/7804535?v=3&s=460
-  - name: SuperDanny
-    info: 一个不知天高地厚的小屁孩
-    url: http://superdanny.link/
-    avatar: http://ww1.sinaimg.cn/mw690/81f8a509gw1evdwqs4q4cj20xc0xbjyw.jpg
   - name: Swift迷
     info: 致力于打造一个国内专业的Apple Swift交流和分享地方
     url: http://www.swiftmi.com/
@@ -321,10 +317,6 @@ link:
     info: 记录自己的点滴生活，愿意结识更多的陌生人，一起成长，一起进步！
     url: http://www.circleblog.net/
     avatar: https://dn-coding-net-production-static.qbox.me/22f62133-ae70-48ee-8b7e-9f8b17579e51.png?imageMogr2/auto-orient/format/png/crop/!142x142a6a19
-  - name: carl's blog
-    info: 强哥的 iOS 开发日记
-    url: http://ndhphp.com/
-    avatar: http://upload-images.jianshu.io/upload_images/1018190-2cb323e0c07c1a50.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
   - name: 画渣程序猿MM
     info: 不喜欢画画的程序猿不是好翻译
     url: http://mmoaay.github.io/
@@ -349,7 +341,10 @@ link:
     info: iOS / macOS 开发者、开源爱好者、专业逆向开发，全栈，啥都会
     url: https://www.sunnyyoung.net/
     avatar: https://avatars2.githubusercontent.com/u/5926284?s=460&v=4
-
+  - name: Jikkai
+    info: Skyphobia
+    url: https://asaki.me
+    avatar: https://blog.asaki.me/images/avatar.png
 
 project:
   - type: personal

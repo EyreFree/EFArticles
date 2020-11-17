@@ -77,6 +77,7 @@ sudo gem install cocoapods
 提示：记住这里千万不要删除多余的 repo，不然你就会像我一样需要白忙活 2 个小时，首尾呼应，完结撒花。
 
 ---
-本文链接：[http://www.eyrefree.org/2019/10/17/2019-10-17-CocoaPods-Flutter-CDN/](http://www.eyrefree.org/2019/10/17/2019-10-17-CocoaPods-Flutter-CDN/)
 
-如文中无特殊说明，本站均使用以下协议保护：[署名-非商业性使用-禁止演绎](http://creativecommons.org/licenses/by-nc-nd/3.0/cn/)
+> 如有任何知识产权、版权问题或理论错误，还请指正。   
+> https://www.eyrefree.org/2019/10/17/CocoaPods-Flutter-CDN   
+> 如文中无特殊说明，本站均使用以下协议保护：[署名-非商业性使用-禁止演绎](http://creativecommons.org/licenses/by-nc-nd/3.0/cn/)。   

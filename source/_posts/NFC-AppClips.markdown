@@ -176,6 +176,7 @@ struct appclipApp: App {
 - [iPhone NFC Compatibility](https://www.bluebite.com/nfc/iphone-nfc-compatibility)
 
 ---
-本文链接：[https://www.eyrefree.org/2020/09/27/NFC-AppClips/](https://www.eyrefree.org/2020/09/27/NFC-AppClips/)
 
-如文中无特殊说明，本站均使用以下协议保护：[署名-非商业性使用-禁止演绎](http://creativecommons.org/licenses/by-nc-nd/3.0/cn/)
+> 如有任何知识产权、版权问题或理论错误，还请指正。   
+> https://www.eyrefree.org/2020/09/27/NFC-AppClips   
+> 如文中无特殊说明，本站均使用以下协议保护：[署名-非商业性使用-禁止演绎](http://creativecommons.org/licenses/by-nc-nd/3.0/cn/)。   

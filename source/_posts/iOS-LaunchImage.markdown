@@ -23,6 +23,7 @@ tag: Nothing
 接下来 Run 一下工程，启动 App 时就可以出现我们上面设置的启动图片啦，😊
 
 ---
-本文链接：[http://www.eyrefree.org/2015/06/01/2015-06-01-iOS-LaunchImage/](http://www.eyrefree.org/2015/06/01/2015-06-01-iOS-LaunchImage/)
 
-如文中无特殊说明，本站均使用以下协议保护：[署名-非商业性使用-禁止演绎](http://creativecommons.org/licenses/by-nc-nd/3.0/cn/)
+> 如有任何知识产权、版权问题或理论错误，还请指正。   
+> https://www.eyrefree.org/2015/06/01/iOS-LaunchImage   
+> 如文中无特殊说明，本站均使用以下协议保护：[署名-非商业性使用-禁止演绎](http://creativecommons.org/licenses/by-nc-nd/3.0/cn/)。   

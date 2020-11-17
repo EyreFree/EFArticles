@@ -163,6 +163,7 @@ sudo npm install hexo --no-optional
 [https://coding.net/u/eyrefree/p/blog.eyrefree.org/git](https://coding.net/u/eyrefree/p/blog.eyrefree.org/git)
 
 ---
-本文链接：[http://www.eyrefree.org/2016/03/23/2016-03-23-Hexo-Coding-Pages/](http://www.eyrefree.org/2016/03/23/2016-03-23-Hexo-Coding-Pages/)
 
-如文中无特殊说明，本站均使用以下协议保护：[署名-非商业性使用-禁止演绎](http://creativecommons.org/licenses/by-nc-nd/3.0/cn/)
+> 如有任何知识产权、版权问题或理论错误，还请指正。   
+> https://www.eyrefree.org/2016/03/23/Hexo-Coding-Pages   
+> 如文中无特殊说明，本站均使用以下协议保护：[署名-非商业性使用-禁止演绎](http://creativecommons.org/licenses/by-nc-nd/3.0/cn/)。   

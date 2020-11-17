@@ -41,6 +41,6 @@ Indicating Mac compatibility in the app name is not necessary for the Mac App St
 
 ---
 
-本文链接：[http://www.eyrefree.org/2017/12/12/2017-12-12-AppStore-macOS/](http://www.eyrefree.org/2017/12/12/2017-12-12-AppStore-macOS/)
-
-如文中无特殊说明，本站均使用以下协议保护：[署名-非商业性使用-禁止演绎](http://creativecommons.org/licenses/by-nc-nd/3.0/cn/)
+> 如有任何知识产权、版权问题或理论错误，还请指正。   
+> https://www.eyrefree.org/2017/12/12/AppStore-macOS   
+> 如文中无特殊说明，本站均使用以下协议保护：[署名-非商业性使用-禁止演绎](http://creativecommons.org/licenses/by-nc-nd/3.0/cn/)。   

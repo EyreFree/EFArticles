@@ -85,6 +85,7 @@ EFGuangDianTong.sharedInstance.Schema2(
 集成广点通需要使用 IDFA，请在 App 提交审核时注意勾选相应选项，否则容易导致二进制文件被拒绝。
 
 ---
-本文链接：[http://www.eyrefree.org/2016/02/18/2016-02-18-iOS-GuangDianTong/](http://www.eyrefree.org/2016/02/18/2016-02-18-iOS-GuangDianTong/)
 
-如文中无特殊说明，本站均使用以下协议保护：[署名-非商业性使用-禁止演绎](http://creativecommons.org/licenses/by-nc-nd/3.0/cn/)
+> 如有任何知识产权、版权问题或理论错误，还请指正。   
+> https://www.eyrefree.org/2016/02/18/iOS-GuangDianTong   
+> 如文中无特殊说明，本站均使用以下协议保护：[署名-非商业性使用-禁止演绎](http://creativecommons.org/licenses/by-nc-nd/3.0/cn/)。   
