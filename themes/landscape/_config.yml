@@ -4,7 +4,7 @@ slogan: This is the way the world ends, not with a bang, but a whimper.
 url: http://www.eyrefree.org
 
 # Set avatar (Absolute url and relative url)
-avatar: https://dn-coding-net-production-static.qbox.me/3f0503a5-2696-44e1-98dd-d755a07c6c2d.jpg?imageMogr2/auto-orient/format/jpeg/crop/!549x549a0a0
+avatar: https://avatars.githubusercontent.com/u/10757132
 
 # Set favicon
 favicon: /favicon.ico
@@ -16,11 +16,14 @@ home_nav:
   - name: 博客
     url: /archives
     target: _blank
-  - name: 掘金
-    url: https://juejin.im/user/58e106a12f301e0062127340
-    target: _blank
+  # - name: 掘金
+  #   url: https://juejin.im/user/58e106a12f301e0062127340
+  #   target: _blank
   - name: 微博
     url: https://weibo.com/eyrefree777
+    target: _blank
+  - name: Twitter
+    url: https://twitter.com/EyreFree777
     target: _blank
   # - name: 简书
   #   url: http://www.jianshu.com/users/e4d1f69048ea
@@ -253,18 +256,10 @@ about:
     text_value_url: http://www.miitbeian.gov.cn/state/outPortal/loginPortal.action
 
 link:
-  - name: Breaker's Blog
-    info: 作为意志和表象的世界
-    url: http://blog.0x7c00.cn/
-    avatar: https://dn-coding-net-production-static.qbox.me/b3981953-0dad-48c1-adab-be1b95359b1a.jpg?imageMogr2/auto-orient/format/jpeg/crop/!220x220a0a0
-  - name: Vincent Yao
-    info: 全干工程师
-    url: http://blog.ookcode.com/
-    avatar: https://dn-coding-net-production-static.qbox.me/17f4a530-afa3-435f-af71-42ada41d1b66.png?imageMogr2/auto-orient/format/png/crop/!248x248a0a0
   - name: TimothyQiu's Blog
     info: Hi, this is Timothy Qiu. I'm a new programmer.
     url: http://timothyqiu.com/
-    avatar: https://dn-coding-net-production-static.qbox.me/2212a32f00cca72b5561aef00ebb5dc7.png
+    avatar: https://avatars.githubusercontent.com/u/372476?v=4
   - name: 沉没大陆
     info: Blog for Daterlove
     url: http://www.sinkland.cn/
@@ -272,27 +267,11 @@ link:
   - name: 江小湖Laker
     info: 进击的程序媛
     url: http://laker.me/blog/
-    avatar: https://dn-coding-net-production-static.qbox.me/80ab1c83-5194-4850-94bd-cb42c4bbafc8.png?imageMogr2/auto-orient/format/png/crop/!497x497a0a2
+    avatar: https://avatars.githubusercontent.com/u/3895607?v=4
   - name: 佳佳酱
     info: 跨次元日常卖萌
     url: https://luojia.me/
-    avatar: https://dn-coding-net-production-static.qbox.me/15b151ef-2df1-457a-913f-ec62d7b536fd.jpg?imageMogr2/auto-orient/format/jpeg/crop/!800x800a0a0
-  - name: Airing
-    info: 我是一只小小小小熊
-    url: http://ursb.me/
-    avatar: https://dn-coding-net-production-static.qbox.me/8cc80ba0-f0ad-4fe8-87f9-15e02ed64c65.jpg?imageMogr2/auto-orient/format/png/crop/!493x493a0a0
-  - name: Jvaeyhcd's Note
-    info: My Coding Note。
-    url: http://www.jvaeyhcd.cc/
-    avatar: https://dn-coding-net-production-static.qbox.me/0dcf6be4-e41e-4842-80af-af8f2b0eb3f3.jpg
-  - name: Invictus
-    info: C'est la vie
-    url: http://lancelot_lewis.coding.me/
-    avatar: https://dn-coding-net-production-static.qbox.me/69ebe443-7644-4656-8d51-a5c8b8b78dd8.jpg?imageMogr2/auto-orient/format/jpeg/crop/!403x403a27a44
-  - name: 海诺者
-    info: PHP终极粉丝
-    url: https://blog.hainuo.info/
-    avatar: https://dn-coding-net-avatar.qbox.me/4cc88a4e-7adc-469f-98a5-6091ef2a35c3.jpg
+    avatar: https://avatars.githubusercontent.com/u/4150781?v=4
   - name: 六阿哥博客
     info: 记录一个iOS程序员的成长历程
     url: https://blog.6ag.cn
@@ -301,60 +280,28 @@ link:
     info: Innovation, in iOS development.
     url: http://www.desgard.com/
     avatar: https://avatars3.githubusercontent.com/u/7804535?v=3&s=460
-  - name: Swift迷
-    info: 致力于打造一个国内专业的Apple Swift交流和分享地方
-    url: http://www.swiftmi.com/
-    avatar: https://avatars0.githubusercontent.com/u/3375497?v=3&s=460
-  - name: POJO
-    info: Dorénavant, je vais de l'avant.
-    url: http://src.moe/
-    avatar: https://avatars3.githubusercontent.com/u/13232736?v=3&s=460
   - name: 卜卜口
     info: 前端开发、人像写真
     url: http://mouto.org
     avatar: https://avatars0.githubusercontent.com/u/1933673?s=460&v=4
-  - name: 圈里圈外
-    info: 记录自己的点滴生活，愿意结识更多的陌生人，一起成长，一起进步！
-    url: http://www.circleblog.net/
-    avatar: https://dn-coding-net-production-static.qbox.me/22f62133-ae70-48ee-8b7e-9f8b17579e51.png?imageMogr2/auto-orient/format/png/crop/!142x142a6a19
   - name: 画渣程序猿MM
     info: 不喜欢画画的程序猿不是好翻译
     url: http://mmoaay.github.io/
     avatar: https://avatars1.githubusercontent.com/u/4161013?v=3&s=460
-  - name: LPD-iOS
-    info: 饿了么物流 iOS 开发组博客
-    url: https://lpd-ios.github.io/
-    avatar: https://avatars2.githubusercontent.com/u/24349774?v=3&s=200
   - name: 一缕殇流化隐半边冰霜
     info: 在每一个苦思冥想的瞬间求知
     url: https://halfrost.com/
     avatar: https://avatars0.githubusercontent.com/u/10825609?v=3&s=460
-  - name: RenaultZhou
-    info: 沉沉的黑夜往往是白天的前奏
-    url: http://renaultphoto.com/
-    avatar: https://avatars0.githubusercontent.com/u/12331261?v=3&s=400
   - name: Enum
     info: iOS エンジニア
-    url: http://enumsblog.com/
+    url: yuusann.com
     avatar: https://avatars0.githubusercontent.com/u/29399077?s=460&v=4
   - name: Sunnyyoung
     info: iOS / macOS 开发者、开源爱好者、专业逆向开发，全栈，啥都会
     url: https://www.sunnyyoung.net/
     avatar: https://avatars2.githubusercontent.com/u/5926284?s=460&v=4
-  - name: Jikkai
-    info: Skyphobia
-    url: https://asaki.me
-    avatar: https://blog.asaki.me/images/avatar.png
-
+  
 project:
-  - type: personal
-    name: EFColorPicker
-    url: https://github.com/EFPrefix/EFColorPicker
-    intro: 一个纯 Swift 的轻量级 iOS 颜色选择器
-  - type: personal
-    name: EFCountingLabel
-    url: https://github.com/EFPrefix/EFCountingLabel
-    intro: 为 UILabel 添加计数动画支持
   - type: personal
     name: EFIconFont
     url: https://github.com/EFPrefix/EFIconFont
@@ -363,11 +310,4 @@ project:
     name: EFQRCode
     url: https://github.com/EFPrefix/EFQRCode
     intro: iOS 艺术二维码生成
-  - type: personal
-    name: EFResume
-    url: https://github.com/EyreFree/EFResume
-    intro: 一个普通的 Swift 简历模板
-  - type: personal
-    name: VSCAM
-    url: https://github.com/EyreFree/VSCAM
-    intro: 摄影 交流 分享 - 极简主义图片分享应用
+  
