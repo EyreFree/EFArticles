@@ -10,7 +10,7 @@ avatar: https://avatars.githubusercontent.com/u/10757132
 favicon: /favicon.ico
 
 # For seo
-keywords: EyreFree,C/C++,Objective-C,Swift,iOS,OS X
+keywords: EyreFree,Swift,iOS,OS X
 
 home_nav:
   - name: 博客
@@ -125,6 +125,9 @@ donation:
       # text: 微信扫一扫
       imgUrl: /WeChat.png
 
+
+
+
 post:
   header_align: CENTER # LEFT|CENTER
   showToc: true # true|false
@@ -158,13 +161,13 @@ init_page_content: HOME_NAV  # HOME_NAV | POST
 baidu_analytics: 638f7245dab1e13e3d8fbdd9cc3b0895
 
 # Comment service
+
 disqus_shortname: eyrefree
-# gitalk_shortname: EyreFree
 # hypercomments_id: 89821
 # gentie_key: d16a7241e7cd4b389584ed8db2a4e8bc
 
 #有言用户编号
-#uyan_key:
+# uyan_key:
 
 # 畅言, doc: http://changyan.kuaizhan.com/
 changyan:
@@ -181,9 +184,8 @@ gitalk:
   owner: forsigner
   admin: forsigner
 
-# changyan_appid:
-# changyan_appkey:
 
+# gitment comment service
 gitment:
   enable: false  # true | false  这里开启
   owner:  # Your GitHub ID. Required.
@@ -211,6 +213,9 @@ valine:
   avatar: mm # gravatar style
   guest_info: nick,mail,link # custom comment header
   pageSize: 10 # pagination size
+
+
+
 
 # 不算子,文章访问量统计和显示
 busuanzi: true
@@ -300,7 +305,8 @@ link:
     info: iOS / macOS 开发者、开源爱好者、专业逆向开发，全栈，啥都会
     url: https://www.sunnyyoung.net/
     avatar: https://avatars2.githubusercontent.com/u/5926284?s=460&v=4
-  
+
+
 project:
   - type: personal
     name: EFIconFont
@@ -310,4 +316,3 @@ project:
     name: EFQRCode
     url: https://github.com/EFPrefix/EFQRCode
     intro: iOS 艺术二维码生成
-  
