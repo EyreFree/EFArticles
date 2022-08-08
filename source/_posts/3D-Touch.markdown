@@ -6,8 +6,7 @@ categories: iOS
 tag: 3D Touch
 ---
 
-iOS 为 App 图标添加 3D Touch 快捷启动菜单，Demo 地址：  
-[https://github.com/EyreFree/EF3DTouchDemo](https://github.com/EyreFree/EF3DTouchDemo)
+iOS 为 App 图标添加 3D Touch 快捷启动菜单，Demo 地址：[https://github.com/EyreFree/EF3DTouchDemo](https://github.com/EyreFree/EF3DTouchDemo)
 
 ---
 
