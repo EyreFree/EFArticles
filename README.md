@@ -39,6 +39,7 @@ EyreFree 存放所发布的各种水文的仓库，可在线查看：[https://ww
 ## 捐赠
 
 ![Donations](https://raw.githubusercontent.com/EFPrefix/EFQRCode/assets/QRCode/Donations.jpg?raw=true)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FEyreFree%2FEFArticles.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FEyreFree%2FEFArticles?ref=badge_shield)
 
 ## 作者
 
@@ -53,3 +54,7 @@ EFArticles 博客代码基于 GPLv3 协议进行分发和使用，更多信息�
 <img src='https://raw.githubusercontent.com/EyreFree/EFArticles/master/res/cc-by-nc-nd.png' width='145.77' height='51'/>
 
 EFArticles 所含文章使用以下协议进行保护：[署名-非商业性使用-禁止演绎](http://creativecommons.org/licenses/by-nc-nd/3.0/cn/)。
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FEyreFree%2FEFArticles.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FEyreFree%2FEFArticles?ref=badge_large)
